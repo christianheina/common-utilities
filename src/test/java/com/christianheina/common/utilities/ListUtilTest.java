@@ -29,6 +29,7 @@ import org.testng.annotations.Test;
  * 
  * @author Christian Heina (developer@christianheina.com)
  */
+@SuppressWarnings("javadoc")
 public class ListUtilTest {
 
     private static final Complex NEGATIVE_ONE = new Complex(-1, 0);

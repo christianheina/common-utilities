@@ -26,6 +26,7 @@ import org.testng.annotations.Test;
  * 
  * @author Christian Heina (developer@christianheina.com)
  */
+@SuppressWarnings("javadoc")
 public class SleepUtilTest {
 
     private static final double ALLOWED_SLEEP_LONGER_PERCENTAGE = 1.02;

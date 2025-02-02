@@ -27,6 +27,7 @@ import com.christianheina.common.utilities.SleepUtil;
  * 
  * @author Christian Heina (developer@christianheina.com)
  */
+@SuppressWarnings({ "javadoc", "uncommentedmain" })
 public class SleepExample {
 
     private static final int SLEEP_DURATION = 10;
