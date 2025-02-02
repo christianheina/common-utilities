@@ -28,8 +28,8 @@ public class Constants {
     }
 
     /**
-     * Speed of light in VACCUM.
+     * Speed of light in vacuum.
      */
-    public static final int VACCUM_SPEED_OF_LIGHT = 299792458;
+    public static final int VACUUM_SPEED_OF_LIGHT = 299792458;
 
 }
